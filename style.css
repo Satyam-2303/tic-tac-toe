@@ -1,0 +1,13 @@
+dialog, form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5%;
+    gap: 20px;
+}
+form
+div{
+    display: flex;
+    flex-direction: column;
+}
